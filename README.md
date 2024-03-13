@@ -1,1 +1,1 @@
-# Exerc-cio---Canais-de-cores-e-Histograma
+# Exercício Canais de cores e Histograma
